@@ -1,0 +1,1 @@
+Here I implemented a basic application where I learned about Crud operations with ejs and serverside rendering.
